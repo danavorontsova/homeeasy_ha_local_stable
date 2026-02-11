@@ -1,5 +1,5 @@
 {
-  "domain": "homeeasy_local",
+  "domain": "homeeasy_local_stable",
   "name": "Home Easy HVAC STABLE",
   "codeowners": [ "@danavorontsova" ],
   "config_flow": true,
